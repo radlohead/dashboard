@@ -1,0 +1,10 @@
+{{#each json}}
+    {{#when text 'notEquals' 'Purchases'}}
+        <a class="mdl-navigation__link" href="">
+            <i class="mdl-color-text--blue-grey-400 material-icons" role="presentation">
+                {{presentation}}
+            </i>
+            {{text}}
+        </a>
+    {{/when}}
+{{/each}}

@@ -1,0 +1,24 @@
+{
+  "mdlMenuList":[
+    {"name":"About"},
+    {"name":"Contact"},
+    {"name":"Legal information"}
+  ],
+  "mdlMenuItem":[
+    {"text":"radlohead@naver.com"},
+    {"text":"https://github.com/radlohead"},
+    {"text":"http://blog.naver.com/radlohead"}
+  ],
+  "mdlNavigationLink":[
+    {"presentation":"home","text":"Home"},
+    {"presentation":"inbox","text":"Inbox"},
+    {"presentation":"delete","text":"Trash"},
+    {"presentation":"report","text":"Spam"},
+    {"presentation":"forum","text":"Forums"},
+    {"presentation":"flag","text":"Updates"},
+    {"presentation":"local_offer","text":"Promos"},
+    {"presentation":"shopping_cart","text":"Purchases"},
+    {"presentation":"people","text":"Social"},
+    {"presentation":"help_outline","text":"Help"}
+  ]
+}
